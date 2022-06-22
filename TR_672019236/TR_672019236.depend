@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1618972971 source:d:\uksw\semester 5\algoritma dan struktur data\asdos\tr_672019236\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
